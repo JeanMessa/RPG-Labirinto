@@ -1,4 +1,4 @@
-Esse é um jogo feito por JacksonMessa e JeanMessa como trabalho para a matéria de Programação Orientada a Objeto, tendo como foco os princípios da POO como classes, heraça, métodos gets e sets,etc.
+Esse é um jogo feito por JacksonMessa e JeanMessa como trabalho para a matéria de Programação Orientada a Objeto, tendo como foco os princípios da POO como classes, herança, métodos gets e sets,etc.
 
 Ao iniciar o jogo você poderá escolher seu nome e sua classe, a qual irá definir os seus status base e seu ataque especial.
 
@@ -12,7 +12,7 @@ Após isso, você estará no mapa do jogo, onde seu personagem é representado p
   <img src="https://github.com/user-attachments/assets/382a9aa5-f60f-4194-9e2f-1438e9014457" width="100%" >
 </p>
 
-Ao encontrar com um inimigo é iniciado um combate por turnos, vence aquele que zerar a vida do openente primeiro ou quem causar mais dano em 10 turnos.
+Ao encontrar com um inimigo é iniciado um combate por turnos, vence aquele que zerar a vida do oponente primeiro ou quem causar mais dano em 10 turnos.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e4fe5db7-8fee-4852-9f05-2d6159d296c2" width="100%" >
 </p>
